@@ -21,5 +21,6 @@ Create a dropdown menu in a designated cell that enables the selection of "Sales
 Next to the profit margin column in the "Products" worksheet, utilize a lookup function to show the corresponding value for each product based on the selection made in the dropdown menu.
 ### Create a Dynamic Chart: 
 Develop a chart that visualizes the values (sales, costs, or margin) according to the selection made in the dropdown menu. The chart should automatically update to reflect changes in the selected option.
-### Organize and Format Data: Make sure the data is neatly arranged, using appropriate formatting to improve readability and give the worksheets a professional appearance.
+### Organize and Format Data: 
+Make sure the data is neatly arranged, using appropriate formatting to improve readability and give the worksheets a professional appearance.
 
