@@ -1,4 +1,4 @@
-# Dataset-Overview-CloseUp-Toothpaste-Sales-and-Costs
+# Toothpaste-Sales-and-Costs
 ## Excel Project
 
 Description
